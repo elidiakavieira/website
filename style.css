@@ -1,0 +1,73 @@
+body
+{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color:white;
+
+
+}
+
+a:link{
+    font-family:Arial;
+    font-size:20px;
+    color:white;
+    text-decoration:none;
+    }
+
+a:visited{
+         font-family:Arial;
+        font-size:20px;
+        color:white;
+       }
+
+a:hover
+{
+         font-family:Arial;
+        font-size:20px;
+        color:darkgreen;
+        text-decoration:none;
+        background-color:white;
+}
+
+#corpo
+{
+background-color: #150C0C;
+}
+
+#menu
+{
+    background-color: #181327;
+    border-radius:5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#Sob
+{
+    background-color: #141124;
+    border-radius:5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.image-me
+{
+    border-radius: 50%;
+}
+
+#EP
+{
+    background-color: #141124;
+    border-radius:5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.Rod
+{
+    background-color: #141124;
+    border-radius:5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
